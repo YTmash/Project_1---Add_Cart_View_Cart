@@ -1,0 +1,229 @@
+/* Navigation Bar */
+nav {
+    background-color: dodgerblue;
+    color: white;
+    overflow: hidden;
+    padding: 20px;
+    margin: 0;
+}
+
+li a {
+    color: white;
+    font-size: 1.5rem;
+    display: block;
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 10px;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: blue;
+}
+
+/* Heading */
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: white;
+    background-color: blue;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+}
+
+/* Body */
+p {
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background-image: url("/img/background/front-page-picture.jpg");
+    display: block;
+}
+
+.product-section {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+/* Product cards */
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 400px;
+    margin: 5px;
+    text-align: center;
+    font-family: arial;
+    /*float: left;*/
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    align-self: stretch;
+    width: 15%;
+    border: 1px solid grey;
+    /*max-height: 20vh;*/
+}
+
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 15px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
+
+.caption {
+    font-size: 30px;
+}
+
+img {
+    width: 100%;
+    height: 300px;
+}
+
+.product-image {
+    background-size: cover;
+    background-image: url("/img/basketball/basketball_goggles.jpg");
+}
+
+/* Container */
+.cont > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Basketball */
+.basketball {
+    color: orange;
+    font-size: 100px;
+    text-align: center;
+}
+
+.row {
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+}
+
+/* Lacrosse */
+.lacrosse {
+    font-size: 100px;
+    color: yellow;
+    text-align: center;
+}
+
+/* MMA */
+.mma {
+    font-size: 100px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    display: block;
+}
+
+/* Contact Page */
+.firstname {
+    font-size: 20px;
+}
+
+.phonenumber {
+    font-size: 20px;
+}
+
+.companyinfo {
+    font-size: 25px;
+}
+
+h4 {
+    text-align: center;
+}
+
+::placeholder {
+    width: 150px;
+}
+
+.label {
+    text-align: center;
+}
+
+#admin {
+    text-align: right;
+}
+
+input {
+    margin-bottom: 20px;
+    font-size: 20px;
+    justify-content: center;
+}
+
+form {
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+textarea {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+}
+
+::placeholder {
+    color: orange;
+    opacity: 1;
+    /* for Firefox */
+}
+
+:focus-visible {
+    outline: none;
+}
+
+.border-error {
+    border: 2px solid red;
+}
+
+#admin {
+    text-align: right;
+}
+
+.error {
+    color: red;
+}

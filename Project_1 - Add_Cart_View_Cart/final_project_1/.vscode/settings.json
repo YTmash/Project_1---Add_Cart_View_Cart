@@ -1,0 +1,7 @@
+{
+  "prettier.printWidth": 100,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "vscode.html-language-features",
+  "prettier.tabWidth": 4
+}
