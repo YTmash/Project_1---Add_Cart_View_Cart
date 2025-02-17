@@ -17,15 +17,17 @@ Checkout Process: Users can review their cart and complete their order (without 
 
 Database Integration: Reads and writes all relevant user and product data.
 
+
 Technologies Used
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML and CSS
 
-Backend: PHP, Express.js (Node.js)
+Backend: PHP
 
 Database: MySQL
 
 Deployment: GoDaddy Web Hosting
+
 
 Installation Instructions
 
