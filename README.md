@@ -179,5 +179,5 @@ Implement order history tracking.
 
 Contact
 
-For any inquiries or contributions, feel free to reach out to [your email] or visit the GitHub repository.
+For any inquiries or contributions, feel free to reach out to mimashego@gmail.com or visit the GitHub repository.
 
