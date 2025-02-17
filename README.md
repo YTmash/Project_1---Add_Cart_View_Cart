@@ -155,6 +155,7 @@ INT
 
 Quantity of the product
 
+
 Deployment on GoDaddy
 
 Upload all project files to GoDaddy’s hosting server.
@@ -166,6 +167,7 @@ Update the database connection settings in config.php.
 Ensure the PHP and Node.js backend is properly linked.
 
 Access the site via your GoDaddy domain.
+
 
 Future Enhancements
 
@@ -180,4 +182,6 @@ Implement order history tracking.
 Contact
 
 For any inquiries or contributions, feel free to reach out to mimashego@gmail.com or visit the GitHub repository.
+
+
 
