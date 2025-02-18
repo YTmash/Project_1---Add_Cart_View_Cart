@@ -1,9 +1,9 @@
 ﻿# MK's Sports Store
-MK's Shopping Cart - Add_Cart_View_Cart
+Project_1 - Add_Cart_View_Cart
 
 Description
 
-MK's Shopping Cart is an e-commerce website designed to provide users with an intuitive shopping experience. The platform allows users to register, browse products, add items to their cart, manage their cart, and proceed to checkout. The project is developed locally and will be deployed on a GoDaddy web server.
+MK's Spot is an e-commerce website that provides users with an intuitive shopping experience. The platform allows users to register, browse products, add items, manage their cart, and proceed to checkout. The project is developed locally and will be deployed on a GoDaddy web server.
 
 Features
 
@@ -38,11 +38,6 @@ git clone (https://github.com/YTmash/Project_1---Add_Cart_View_Cart/blob/main/RE
 Navigate to the project directory:
 
 cd Project_1 - Add_Cart_View_Cart
-
-Install dependencies for the backend:
-
-npm install
-
 
 Set up a local PHP environment (XAMPP, WAMP, or LAMP).
 
