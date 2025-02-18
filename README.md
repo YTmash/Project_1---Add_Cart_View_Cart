@@ -33,23 +33,20 @@ Installation Instructions
 
 Clone the repository:
 
-git clone https://github.com/yourusername/mks-shopping-cart.git
+git clone (https://github.com/YTmash/Project_1---Add_Cart_View_Cart/blob/main/README.md)
 
 Navigate to the project directory:
 
-cd mks-shopping-cart
+cd Project_1 - Add_Cart_View_Cart
 
 Install dependencies for the backend:
 
 npm install
 
-Start the backend server:
-
-node server.js
 
 Set up a local PHP environment (XAMPP, WAMP, or LAMP).
 
-Import the provided MySQL database file (database.sql) into your database.
+Import the provided MySQL database file (schema.sql) into your database.
 
 Start the PHP server and visit http://localhost/index.php.
 
