@@ -158,7 +158,7 @@ Configure the database using GoDaddy’s MySQL panel.
 
 Update the database connection settings in config.php.
 
-Ensure the PHP and Node.js backend is properly linked.
+Ensure the PHP is properly linked.
 
 Access the site via your GoDaddy domain.
 
