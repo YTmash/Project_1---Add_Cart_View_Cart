@@ -3,7 +3,7 @@ Project_1 - Add_Cart_View_Cart
 
 Description
 
-MK's Spot is an e-commerce website that provides users with an intuitive shopping experience. The platform allows users to register, browse products, add items, manage their cart, and proceed to checkout. The project is developed locally and will be deployed on a GoDaddy web server.
+MK's Sports Store is an e-commerce website that provides users with an intuitive shopping experience. The platform allows users to register, browse products, add items, manage their cart, and proceed to checkout. The project is developed locally and will be deployed on a GoDaddy web server.
 
 Features
 
